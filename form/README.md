@@ -2,7 +2,7 @@
 
 ###
 ```
-svn 
+https://app.slack.com/block-kit-builder
 ```
 
 ### 메세지 형식1
