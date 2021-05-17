@@ -2,6 +2,8 @@
 `Slack : ?`
 
 ## Posting
+- TIP
+    - [슬랙Slack - 사용자 이모티콘 추가하기, custom](https://blog.naver.com/jogilsang/222354452457)
 - API
     - perl
         - [슬랙Slack - API로 thread 생성 및 reply 달기, chat.postMessage](https://blog.naver.com/jogilsang/222272481593)
