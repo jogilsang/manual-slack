@@ -30,5 +30,5 @@
     - git
         - [슬랙Slack - 서버 git commit 커밋 알림 받기, github](https://blog.naver.com/jogilsang/222088173839)
 
-## Reference
+## BP
 - [Slack Block Kit (마켓컬리)](https://helloworld.kurly.com/blog/slack_block_kit/)   
